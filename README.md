@@ -52,7 +52,7 @@ always @(*) begin
     endcase
 end
 endmodule
-```
+``` 
 # Test Bench
 ```
 module traffic_tb;
